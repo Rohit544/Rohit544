@@ -1,84 +1,88 @@
-<h2 align="left">Hi 👋! My name is Rohit Ojha and I'm a Software Developer.</h2>
+<!-- 🌟 Professional Animated GitHub Profile by Rohit Ojha -->
 
-###
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hey+There!+👋+I'm+Rohit+Ojha;Software+Developer+%7C+AI+%26+ML+Enthusiast;DevOps+Engineer+%7C+Cloud+%26+Automation+Lover;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+</h1>
+
+
+---
+
+### 🧠 About Me  
+🚀 Passionate about building **AI-driven solutions**, **DevOps pipelines**, and **automation systems**.  
+💡 Skilled in **Machine Learning, Deep Learning, Docker, Jenkins, Kubernetes, and Cloud Infrastructure**.  
+🎯 Focused on combining **AI + DevOps** to deliver scalable, intelligent applications.  
+
+---
+
+### 🧰 Tech Stack  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohit544&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Rohit544&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohit544&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+#### 🚀 **Languages**
+<img src="https://skillicons.dev/icons?i=python,cpp,typescript,javascript,html,css" height="45" />
+
+#### ⚙️ **Frameworks & Tools**
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask,tailwind,bootstrap" height="45" />
+
+#### 🧩 **DevOps & Cloud**
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,linux,git,github,azure,aws,gcp" height="45" />
+
+#### 🤖 **AI & Data Science**
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,mysql,postgres" height="45" />
+
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/04128a5f8cde79bc2f97074c50fde8ff943c519f6c0f70d610866672169dbd09/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f312a495247486d69477361313673746564517649615a66772e676966"  />
+### ⚡ GitHub Stats  
 
-###
-
-<div align="left">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohit544&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=Rohit544&theme=tokyonight&hide_border=false" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohit544&layout=compact&theme=tokyonight&langs_count=8&hide_border=false" height="160" />
 </div>
 
-###
+---
 
-<div align="left">
+### 🌌 Tech Vibes Animation  
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
+</div>
+
+---
+
+### 🌍 Connect With Me  
+
+<div align="center">
   <a href="https://www.linkedin.com/in/rohitsojha/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
+  <a href="mailto:monuoo1009@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+  <a href="https://github.com/Rohit544" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+  <a href="https://www.hackerrank.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=hackerrank" height="45" />
+  </a>
 </div>
 
-###
+---
 
-<br clear="both">
+### 🧩 Fun Fact  
+> “Automation and AI won’t replace developers — but developers who use automation and AI will replace those who don’t.” 🤖  
 
-<img src="https://raw.githubusercontent.com/Rohit544/Rohit544/output/snake.svg" alt="Snake animation" />
+---
 
-###
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rohit544&theme=tokyonight&no-frame=true&margin-w=10" />
+</div>
 
-<!--
-**Rohit544/Rohit544** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
